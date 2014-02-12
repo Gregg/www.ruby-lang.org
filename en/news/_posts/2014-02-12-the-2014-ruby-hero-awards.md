@@ -12,10 +12,11 @@ taught you something, wrote a gem, or gave you some tech support? If anyone
 comes to mind, then please take the time to
 [nominate them](http://rubyheroes.com/) for a Ruby Hero Award.  
 
-In the past 6 years we've given away 38 trophies to those in our community who
-don't get the recognition they deserve. In three weeks, the Ruby Heroes from
-all previous years will look at the nominations and decide who should receive
-the awards (this way there’s no popularity contest). However, your nominations
-do matter, so please take a moment and spread the gratitude.
+In the past 6 years I've given away 38 trophies to those in our 
+community who don't get the recognition they deserve. In three weeks, the 
+Ruby Heroes from all previous years will look at the nominations and decide 
+who should receive the awards (this way there’s no popularity contest). 
+However, your nominations do matter, so please take a moment and spread the 
+gratitude.
 [Vote today!](http://rubyheroes.com/)
 
